@@ -1,0 +1,205 @@
+{<1>}![main-image](/content/images/2015/02/lsn13-header.jpg)
+
+Our first ever race. The birth of TRAC RUN. A half marathon through the Lavaux Valley from Tour de Peilz to Lausanne in Western Switzerland.
+
+-------
+
+###The Start of TRAC RUN
+When I decided to move to Switzerland in the summer of 2013 I discovered the Lausanne Marathon whilst Googling about my new home. It looked like a fun event and sounded oddly appealing. I asked friends if they would be interested and the conversations went something like: 
+
+-- Would you like to run a half marathon?
+
+-- No.
+
+-- Would you like to run a half marathon on the shores of Lake Geneva alongside these mountains?
+
+-- When?
+
+-- It isn't until the end of October... we have loads of time.
+
+-- Oh go on then... sign me up.
+
+Seeing this as an ideal way to hook people into visiting me early on I signed us up for the race. Filling in the form there was a spot for team name. In the living room of our house on Tradescant Rd we had a couple of ideals but settled for **TRAC RUN**. Tradescant Rd Athletics Club - RUN.
+<br/>
+
+###Interested? Yes. Running? Heck no.
+
+Everyone I spoke to was interested in the race. But when I mentioned that I would sign them up people were much more hesitant. "Let me just confirm those dates before you do anything"... "Er... how far is a half marathon?"... "Don't worry I'll sign myself up"... In the end there were just four of us who were actually going to run: me (Sam), Andrew, Rob and Alex.
+
+<br/>
+
+###Knee Injury
+Alex had issues with his knee during the year before the race. He hoped that he would still be able to train and join the race but in the weeks leading up to the event it sadly became clear that he wouldn't be able to. 
+
+With that we were down to three.
+<br/>
+
+###Playlist
+The race playlist was put together by myself and Rob on the morning of the race.
+
+Spotify link: [LSN13 - Race Playlist](http://open.spotify.com/user/sgd/playlist/1leG51L4Ct4u6sbQMwEluj)
+
+<br/>
+
+###Race Costs
+The race cost 45 CHF (Swiss Dollar) which at the time was £31.25 Sterling. 
+
+<br/>
+
+###Sponsors
+The race wouldn't have been possible without the generous support of:
+
+* [Manx Telecom](http://www.manxtelecom.com)
+* [Migros](http://www.migros.ch)
+* [Lufthansa](http://www.lufthansa.com)
+* [Helsana](http://www.helsana.ch)
+
+<br/>
+
+###Race Photos
+
+<div id="columns">
+<figure>
+{<2>}![Andrew at Lausanne Half Marathon 2013](/content/images/2015/02/3729176_p.jpg)
+</figure>
+<figure>
+{<3>}!["Andrew" at Lausanne Half Marathon 2013](/content/images/2015/02/3748321_p.jpg)
+</figure>
+<figure>
+{<4>}![Sam at Lausanne Half Marathon 2013](/content/images/2015/02/3737282_p.jpg)
+</figure>
+<figure>
+{<5>}![Rob at Lausanne Half Marathon 2013](/content/images/2015/02/3726421_p.jpg)
+</figure>
+<figure>
+{<6>}![Rob at Lausanne Half Marathon 2013](/content/images/2015/02/3744352_p.jpg)
+</figure>
+<figure>
+{<7>}![Rob at Lausanne Half Marathon 2013](/content/images/2015/02/3752932_p.jpg)
+</figure>
+<figure>
+{<8>}![Rob at Lausanne Half Marathon 2013](/content/images/2015/02/3715521_p.jpg)
+</figure>
+<figure>
+{<9>}![Rob at Lausanne Half Marathon 2013](/content/images/2015/02/3719839_p.jpg)
+</figure>
+<figure>
+{<10>}![Sam at Lausanne Half Marathon 2013](/content/images/2015/02/3719266_p.jpg)
+</figure>
+<figure>
+{<11>}![Sam at Lausanne Half Marathon 2013](/content/images/2015/02/3720147_p.jpg)
+</figure>
+</div>
+
+<style>
+#columns {
+column-width: 320px;
+column-gap: 15px;
+width: 90%;
+max-width: 1100px;
+margin: 50px auto;
+}
+div#columns figure {
+background: #fefefe;
+border: 2px solid #fcfcfc;
+box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+margin: 0 2px 15px;
+padding: 15px; padding-bottom: 10px;
+transition: opacity .4s ease-in-out;
+column-break-inside: avoid;
+display: inline-block;
+}
+div#columns figure img {
+width: 100%; height: auto;
+border-bottom: 1px solid #ccc;
+padding-bottom: 15px;
+margin-bottom: 5px;
+}
+</style>
+
+###Finisher Clips
+
+####Andrew
+<iframe src="//player.vimeo.com/video/120738088" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
+####Rob
+<iframe src="//player.vimeo.com/video/120738089" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+####Sam
+<iframe src="//player.vimeo.com/video/120738090" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+###Medal
+<div id="columns">
+<figure>
+{<12>}![Lausanne Half Marathon 2013 Medal](/content/images/2015/02/lsn2013medal.png)
+</figure>
+</div>
+
+###Results
+<table>
+<tr>
+<th>Who</th>
+<th class="hideMobile">Time</th>
+<th class="showMobile">Time</th>
+<th class="hideMobile">Race Day Records</th>
+<th class="hideMobile">Lasting Records</th>
+<th class="showMobile">Day Recs</th>
+<!--- <th class="showMobile">Now Rec</th>--->
+
+</th>
+<tr>
+<td>Andrew</td>
+<td class="hideMobile">2:14:55.5</td>
+<td class="showMobile">2:14</td>
+<td class="hideMobile"><span class="clubrec">Club Record</span><br><span class="courserec">Course Record</span><br><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"></td>
+<td class="showMobile"><span class="clubrec">Cl</span> <span class="courserec">Co</span> <span class="pbrec">PB</span></td>
+<!---<td class="showMobile"></td> -->
+</tr>
+<tr>
+<td>Sam</td>
+<td class="hideMobile">2:16:04.3</td>
+<td class="showMobile">2:16</td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"></td>
+<td class="showMobile"><span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"></td> -->
+</tr>
+<tr>
+<td>Rob</td>
+<td class="hideMobile">2:17:02.9</td>
+<td class="showMobile">2:17</td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="showMobile"><span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"><span class="pbrec">PB</span></td> -->
+</tr>
+</table>
+
+<br/>
+
+###Official Results Screenshot
+{<13>}![Official Lausanne Half Marathon Results](/content/images/2015/02/2013LSN_Results.png)
+
+<br/>
+###Race Report
+The day after the race I wrote this update to Alex who had unfortunately had to duck out of the race:
+
+- Conditions were near perfect. No rain but cool with some wind. A bit too much wind in places as some parts were exposed but OK. 
+- Race was very well organised with refreshments along the way we could scoop up. Kudos to the team and all the terrific sponsors (incl bizarrely Manx Telecom)
+- We all finished with no walking at all. 
+- Andy clocked 2.14, me 2.16 and Rob 2.17. 
+- It was a fast crowd racing though - these results put us in the bottom 8% of runners! 
+- But yes that does mean we beat some people!
+- I was in a rough way at the end. Very weak. Had to lie down for a long while. 
+- Today me and Rob were hobbling around. Me muscle aches. Rob foot pain. Andy sometimes stiff but getting on generally much better.
+- I will probably take my medal off before the end of the year.
+
+<br/>
+
+###Never Again
+When we were hobbling home after the race we all agreed that under no circumstances would we ever run another half marathon...
+
+Written by Race Responsible: **Sam Davyson**.
+
+
