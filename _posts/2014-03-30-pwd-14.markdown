@@ -1,0 +1,101 @@
+---
+layout: post
+title: Paddock Wood Half Marathon 2014
+date: '2014-03-30 19:33:00'
+tags:
+- photos
+---
+
+![main-image](/assets/images/pwd14-header.jpg)
+
+First race in the UK. Our second ever run, this time around the fields of Kent. Andrew Smith hosted with a brand new club member.
+
+-----
+
+### Photos
+<div id="columns">
+<figure>
+![Sam at Paddock Wood Half Marathon 2014](/content/images/2015/02/Sam-1.png)
+</figure>
+<figure>
+![Sam at Paddock Wood Half Marathon 2014](/content/images/2015/02/Sam-2.png)
+</figure>
+</div>
+
+<style>
+#columns {
+column-width: 320px;
+column-gap: 15px;
+width: 90%;
+max-width: 1100px;
+margin: 50px auto;
+}
+div#columns figure {
+background: #fefefe;
+border: 2px solid #fcfcfc;
+box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+margin: 0 2px 15px;
+padding: 15px; padding-bottom: 10px;
+transition: opacity .4s ease-in-out;
+column-break-inside: avoid;
+display: inline-block;
+}
+div#columns figure img {
+width: 100%; height: auto;
+border-bottom: 1px solid #ccc;
+padding-bottom: 15px;
+margin-bottom: 5px;
+}
+</style>
+<br/>
+
+### Medal
+![Paddock Wood Half Marathon 2014 Medal](/content/images/2015/02/pwd2014medalsmall.png)
+<br/>
+
+### Results
+
+
+<table>
+<tr>
+<th>Who</th>
+<th class="hideMobile">Time</th>
+<th class="showMobile">Time</th>
+<th class="hideMobile">Race Day Records</th>
+<th class="hideMobile">Lasting Records</th>
+<th class="showMobile">Day Recs</th>
+<!--- <th class="showMobile">Now Rec</th> -->
+</th>
+<tr>
+<td>Caroline</td>
+<td class="hideMobile">1:48:57</td>
+<td class="showMobile">1:48</td>
+<td class="hideMobile"><span class="clubrec">Club Record</span><br><span class="courserec">Course Record</span><br><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"><span class="courserec">Course Record</span><br><span class="pbrec">Personal Best</span></td>
+<td class="showMobile"><span class="clubrec">Cl</span> <span class="courserec">Co</span> <span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"><span class="courserec">Course</span><br><span class="pbrec">PB</span></td> -->
+</tr>
+<tr>
+<td>Andrew</td>
+<td class="hideMobile">2:08:06</td>
+<td class="showMobile">2:08</td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"></td>
+<td class="showMobile"><span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"></td> -->
+</tr>
+<tr>
+<td>Sam</td>
+<td class="hideMobile">2:08:17</td>
+<td class="showMobile">2:08</td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"></td>
+<td class="showMobile"><span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"></td> -->
+</tr>
+</table>
+
+<br/>
+
+### Official Results Screenshot
+![Official Results Screenshot](/content/images/2015/02/2014_PaddockWood_Results.png)

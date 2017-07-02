@@ -1,14 +1,410 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-01T14:30:14+02:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/07/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-07-01T14:28:59+02:00</published><updated>2017-07-01T14:28:59+02:00</updated><id>http://localhost:4000/jekyll/update/2017/07/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/07/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-02T12:54:19+02:00</updated><id>http://localhost:4000/</id><title type="html">TRAC RUN</title><subtitle>Tradescant Rd Athletics Club is the world's most exclusive international single* sport athletics club.
+</subtitle><entry><title type="html">Lausanne Half Marathon 2015</title><link href="http://localhost:4000/2015/10/30/lsn-15.html" rel="alternate" type="text/html" title="Lausanne Half Marathon 2015" /><published>2015-10-30T20:33:00+01:00</published><updated>2015-10-30T20:33:00+01:00</updated><id>http://localhost:4000/2015/10/30/lsn-15</id><content type="html" xml:base="http://localhost:4000/2015/10/30/lsn-15.html"></content><author><name></name></author><category term="photos" /><summary type="html"></summary></entry><entry><title type="html">Bath Half Marathon 2015</title><link href="http://localhost:4000/2015/03/01/bath-15.html" rel="alternate" type="text/html" title="Bath Half Marathon 2015" /><published>2015-03-01T20:33:00+01:00</published><updated>2015-03-01T20:33:00+01:00</updated><id>http://localhost:4000/2015/03/01/bath-15</id><content type="html" xml:base="http://localhost:4000/2015/03/01/bath-15.html">&lt;p&gt;&lt;img src=&quot;/assets/images/bhf15-header.jpg&quot; alt=&quot;main-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Back in the UK for our fourth race, and it is our biggest race ever. The Bath Half Marathon 2015 promises to be a fast fresh race.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Runners: Sam, Andrew, Michael, Alex, Gary, Scott.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Race Responsible: &lt;strong&gt;Andrew&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Results and photos will be available soon after the race.&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="photos" /><summary type="html"></summary></entry><entry><title type="html">Lausanne Half Marathon 2014</title><link href="http://localhost:4000/2014/10/26/lsn-14.html" rel="alternate" type="text/html" title="Lausanne Half Marathon 2014" /><published>2014-10-26T20:33:00+01:00</published><updated>2014-10-26T20:33:00+01:00</updated><id>http://localhost:4000/2014/10/26/lsn-14</id><content type="html" xml:base="http://localhost:4000/2014/10/26/lsn-14.html">&lt;p&gt;&lt;img src=&quot;/assets/images/lsn14-header.jpg&quot; alt=&quot;main-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Third race and our return to Switzerland. Lausanne Half Marathon 2014 was the first time we ever repeated a course. It is our flagship autumn event.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;race-photos&quot;&gt;Race Photos&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/lsn14/4575073_p.jpg&quot; alt=&quot;Alex at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4575586_p.jpg&quot; alt=&quot;Alex at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4584654_p.jpg&quot; alt=&quot;Andrew at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4600259_p.jpg&quot; alt=&quot;Andrew at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4585553_p.jpg&quot; alt=&quot;Michael at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4601425_p.jpg&quot; alt=&quot;Michael at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4576129_p.jpg&quot; alt=&quot;Sam at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4586539_p.jpg&quot; alt=&quot;Sam at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4593088_p.jpg&quot; alt=&quot;Sam at Lausanne Half Marathon 2014&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn14/4600912_p.jpg&quot; alt=&quot;Sam at Lausanne Half Marathon 2014&quot; /&gt;&lt;/p&gt;
+
+&lt;style&gt;
+#columns {
+column-width: 320px;
+column-gap: 15px;
+width: 90%;
+max-width: 1100px;
+margin: 50px auto;
+}
+div#columns figure {
+background: #fefefe;
+border: 2px solid #fcfcfc;
+box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+margin: 0 2px 15px;
+padding: 15px; padding-bottom: 10px;
+transition: opacity .4s ease-in-out;
+column-break-inside: avoid;
+display: inline-block;
+}
+div#columns figure img {
+width: 100%; height: auto;
+border-bottom: 1px solid #ccc;
+padding-bottom: 15px;
+margin-bottom: 5px;
+}
+&lt;/style&gt;
+
+&lt;h3 id=&quot;finisher-clips&quot;&gt;Finisher Clips&lt;/h3&gt;
+
+&lt;h3 id=&quot;michael&quot;&gt;#Michael&lt;/h3&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/120746536&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;andrew&quot;&gt;#Andrew&lt;/h3&gt;
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/120745366&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;alex&quot;&gt;#Alex&lt;/h3&gt;
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/120745358&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;sam&quot;&gt;#Sam&lt;/h3&gt;
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/120745365&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;medal&quot;&gt;Medal&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/images/2015/02/lsn2014medalsmall.png&quot; alt=&quot;Lausanne Half Marathon 2014 Medal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;th&gt;Who&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Time&lt;/th&gt;
+&lt;th class=&quot;showMobile&quot;&gt;Time&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Race Day Records&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Lasting Records&lt;/th&gt;
+&lt;th class=&quot;showMobile&quot;&gt;Then Rec&lt;/th&gt;
+&lt;!--- &lt;th class=&quot;showMobile&quot;&gt;Now Rec&lt;/th&gt; ---&gt;
+&amp;lt;/th&amp;gt;
+&lt;tr&gt;
+&lt;td&gt;Michael&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;1:48:35.4&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;1:48&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;clubrec&quot;&gt;Club Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;courserec&quot;&gt;Course Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;clubrec&quot;&gt;Club Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;courserec&quot;&gt;Course Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;clubrec&quot;&gt;Cl&lt;/span&gt; &lt;span class=&quot;courserec&quot;&gt;Co&lt;/span&gt; &lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;clubrec&quot;&gt;Cl&lt;/span&gt; &lt;span class=&quot;courserec&quot;&gt;Co&lt;/span&gt; &lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt; ---&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Andrew&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;2:07:11.6&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;2:07&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt; ---&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alex&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;2:07:17.5&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;2:07&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt; --&gt;&amp;lt;/td&amp;gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sam&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;2:07:21.0&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;2:07&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt; ---&gt;
+&lt;/tr&gt;
+&amp;lt;/table&amp;gt;
+
+&lt;br /&gt;
+
+### Official Results Screenshot
+![Michael Results Lausanne Half Marathon 2014](/content/images/2015/02/Results_1.png)
+![Andrew, Alex, Sam Results Lausanne Half Marathon 2014](/content/images/2015/02/Results_2.png)
+&lt;/tr&gt;&lt;/table&gt;</content><author><name></name></author><category term="photos" /><summary type="html"></summary></entry><entry><title type="html">Paddock Wood Half Marathon 2014</title><link href="http://localhost:4000/2014/03/30/pwd-14.html" rel="alternate" type="text/html" title="Paddock Wood Half Marathon 2014" /><published>2014-03-30T19:33:00+02:00</published><updated>2014-03-30T19:33:00+02:00</updated><id>http://localhost:4000/2014/03/30/pwd-14</id><content type="html" xml:base="http://localhost:4000/2014/03/30/pwd-14.html">&lt;p&gt;&lt;img src=&quot;/assets/images/pwd14-header.jpg&quot; alt=&quot;main-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First race in the UK. Our second ever run, this time around the fields of Kent. Andrew Smith hosted with a brand new club member.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;photos&quot;&gt;Photos&lt;/h3&gt;
+&lt;div id=&quot;columns&quot;&gt;
+&lt;figure&gt;
+![Sam at Paddock Wood Half Marathon 2014](/content/images/2015/02/Sam-1.png)
+&lt;/figure&gt;
+&lt;figure&gt;
+![Sam at Paddock Wood Half Marathon 2014](/content/images/2015/02/Sam-2.png)
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+#columns {
+column-width: 320px;
+column-gap: 15px;
+width: 90%;
+max-width: 1100px;
+margin: 50px auto;
+}
+div#columns figure {
+background: #fefefe;
+border: 2px solid #fcfcfc;
+box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+margin: 0 2px 15px;
+padding: 15px; padding-bottom: 10px;
+transition: opacity .4s ease-in-out;
+column-break-inside: avoid;
+display: inline-block;
+}
+div#columns figure img {
+width: 100%; height: auto;
+border-bottom: 1px solid #ccc;
+padding-bottom: 15px;
+margin-bottom: 5px;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;medal&quot;&gt;Medal&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/content/images/2015/02/pwd2014medalsmall.png&quot; alt=&quot;Paddock Wood Half Marathon 2014 Medal&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+&lt;th&gt;Who&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Time&lt;/th&gt;
+&lt;th class=&quot;showMobile&quot;&gt;Time&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Race Day Records&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Lasting Records&lt;/th&gt;
+&lt;th class=&quot;showMobile&quot;&gt;Day Recs&lt;/th&gt;
+&lt;!--- &lt;th class=&quot;showMobile&quot;&gt;Now Rec&lt;/th&gt; --&gt;
+&amp;lt;/th&amp;gt;
+&lt;tr&gt;
+&lt;td&gt;Caroline&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;1:48:57&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;1:48&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;clubrec&quot;&gt;Club Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;courserec&quot;&gt;Course Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;courserec&quot;&gt;Course Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;clubrec&quot;&gt;Cl&lt;/span&gt; &lt;span class=&quot;courserec&quot;&gt;Co&lt;/span&gt; &lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;courserec&quot;&gt;Course&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Andrew&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;2:08:06&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;2:08&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sam&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;2:08:17&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;2:08&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&amp;lt;/table&amp;gt;
+
+&lt;br /&gt;
+
+### Official Results Screenshot
+![Official Results Screenshot](/content/images/2015/02/2014_PaddockWood_Results.png)
+&lt;/tr&gt;&lt;/table&gt;</content><author><name></name></author><category term="photos" /><summary type="html"></summary></entry><entry><title type="html">Lausanne Half Marathon 2013</title><link href="http://localhost:4000/2013/10/27/lsn-13.html" rel="alternate" type="text/html" title="Lausanne Half Marathon 2013" /><published>2013-10-27T20:33:00+01:00</published><updated>2013-10-27T20:33:00+01:00</updated><id>http://localhost:4000/2013/10/27/lsn-13</id><content type="html" xml:base="http://localhost:4000/2013/10/27/lsn-13.html">&lt;p&gt;&lt;img src=&quot;/assets/images/lsn13-header.jpg&quot; alt=&quot;main-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our first ever race. The birth of TRAC RUN. A half marathon through the Lavaux Valley from Tour de Peilz to Lausanne in Western Switzerland.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;the-start-of-trac-run&quot;&gt;The Start of TRAC RUN&lt;/h3&gt;
+&lt;p&gt;When I decided to move to Switzerland in the summer of 2013 I discovered the Lausanne Marathon whilst Googling about my new home. It looked like a fun event and sounded oddly appealing. I asked friends if they would be interested and the conversations went something like:&lt;/p&gt;
+
+&lt;p&gt;– Would you like to run a half marathon?&lt;/p&gt;
+
+&lt;p&gt;– No.&lt;/p&gt;
+
+&lt;p&gt;– Would you like to run a half marathon on the shores of Lake Geneva alongside these mountains?&lt;/p&gt;
+
+&lt;p&gt;– When?&lt;/p&gt;
+
+&lt;p&gt;– It isn’t until the end of October… we have loads of time.&lt;/p&gt;
+
+&lt;p&gt;– Oh go on then… sign me up.&lt;/p&gt;
+
+&lt;p&gt;Seeing this as an ideal way to hook people into visiting me early on I signed us up for the race. Filling in the form there was a spot for team name. In the living room of our house on Tradescant Rd we had a couple of ideals but settled for &lt;strong&gt;TRAC RUN&lt;/strong&gt;. Tradescant Rd Athletics Club - RUN.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;interested-yes-running-heck-no&quot;&gt;Interested? Yes. Running? Heck no.&lt;/h3&gt;
+
+&lt;p&gt;Everyone I spoke to was interested in the race. But when I mentioned that I would sign them up people were much more hesitant. “Let me just confirm those dates before you do anything”… “Er… how far is a half marathon?”… “Don’t worry I’ll sign myself up”… In the end there were just four of us who were actually going to run: me (Sam), Andrew, Rob and Alex.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;knee-injury&quot;&gt;Knee Injury&lt;/h3&gt;
+&lt;p&gt;Alex had issues with his knee during the year before the race. He hoped that he would still be able to train and join the race but in the weeks leading up to the event it sadly became clear that he wouldn’t be able to.&lt;/p&gt;
+
+&lt;p&gt;With that we were down to three.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;playlist&quot;&gt;Playlist&lt;/h3&gt;
+&lt;p&gt;The race playlist was put together by myself and Rob on the morning of the race.&lt;/p&gt;
+
+&lt;p&gt;Spotify link: &lt;a href=&quot;http://open.spotify.com/user/sgd/playlist/1leG51L4Ct4u6sbQMwEluj&quot;&gt;LSN13 - Race Playlist&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;race-costs&quot;&gt;Race Costs&lt;/h3&gt;
+&lt;p&gt;The race cost 45 CHF (Swiss Dollar) which at the time was £31.25 Sterling.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h3&gt;
+&lt;p&gt;The race wouldn’t have been possible without the generous support of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.manxtelecom.com&quot;&gt;Manx Telecom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.migros.ch&quot;&gt;Migros&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lufthansa.com&quot;&gt;Lufthansa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.helsana.ch&quot;&gt;Helsana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;race-photos&quot;&gt;Race Photos&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/lsn13/3729176_p.jpg&quot; alt=&quot;Andrew at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3748321_p.jpg&quot; alt=&quot;&amp;quot;Andrew&amp;quot; at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3737282_p.jpg&quot; alt=&quot;Sam at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3726421_p.jpg&quot; alt=&quot;Rob at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3744352_p.jpg&quot; alt=&quot;Rob at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3752932_p.jpg&quot; alt=&quot;Rob at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3715521_p.jpg&quot; alt=&quot;Rob at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3719839_p.jpg&quot; alt=&quot;Rob at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3719266_p.jpg&quot; alt=&quot;Sam at Lausanne Half Marathon 2013&quot; /&gt;
+&lt;img src=&quot;/assets/images/lsn13/3720147_p.jpg&quot; alt=&quot;Sam at Lausanne Half Marathon 2013&quot; /&gt;&lt;/p&gt;
+
+&lt;style&gt;
+#columns {
+column-width: 320px;
+column-gap: 15px;
+width: 90%;
+max-width: 1100px;
+margin: 50px auto;
+}
+div#columns figure {
+background: #fefefe;
+border: 2px solid #fcfcfc;
+box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+margin: 0 2px 15px;
+padding: 15px; padding-bottom: 10px;
+transition: opacity .4s ease-in-out;
+column-break-inside: avoid;
+display: inline-block;
+}
+div#columns figure img {
+width: 100%; height: auto;
+border-bottom: 1px solid #ccc;
+padding-bottom: 15px;
+margin-bottom: 5px;
+}
+&lt;/style&gt;
+
+&lt;h3 id=&quot;finisher-clips&quot;&gt;Finisher Clips&lt;/h3&gt;
+
+&lt;h3 id=&quot;andrew&quot;&gt;#Andrew&lt;/h3&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/120738088&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;rob&quot;&gt;#Rob&lt;/h3&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/120738089&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sam&quot;&gt;#Sam&lt;/h3&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/120738090&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;medal&quot;&gt;Medal&lt;/h3&gt;
+&lt;div id=&quot;columns&quot;&gt;
+&lt;figure&gt;
+![Lausanne Half Marathon 2013 Medal](/content/images/2015/02/lsn2013medal.png)
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;th&gt;Who&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Time&lt;/th&gt;
+&lt;th class=&quot;showMobile&quot;&gt;Time&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Race Day Records&lt;/th&gt;
+&lt;th class=&quot;hideMobile&quot;&gt;Lasting Records&lt;/th&gt;
+&lt;th class=&quot;showMobile&quot;&gt;Day Recs&lt;/th&gt;
+&lt;!--- &lt;th class=&quot;showMobile&quot;&gt;Now Rec&lt;/th&gt;---&gt;
+
+&amp;lt;/th&amp;gt;
+&lt;tr&gt;
+&lt;td&gt;Andrew&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;2:14:55.5&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;2:14&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;clubrec&quot;&gt;Club Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;courserec&quot;&gt;Course Record&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;clubrec&quot;&gt;Cl&lt;/span&gt; &lt;span class=&quot;courserec&quot;&gt;Co&lt;/span&gt; &lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!---&lt;td class=&quot;showMobile&quot;&gt;&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sam&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;2:16:04.3&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;2:16&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rob&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;2:17:02.9&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;2:17&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;hideMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;Personal Best&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt;
+&lt;!--- &lt;td class=&quot;showMobile&quot;&gt;&lt;span class=&quot;pbrec&quot;&gt;PB&lt;/span&gt;&lt;/td&gt; --&gt;
+&lt;/tr&gt;
+&amp;lt;/table&amp;gt;
+
+&lt;br /&gt;
+
+###  Official Results Screenshot
+![Official Lausanne Half Marathon Results](/content/images/2015/02/2013LSN_Results.png)
+
+&lt;br /&gt;
+###  Race Report
+The day after the race I wrote this update to Alex who had unfortunately had to duck out of the race:
+
+- Conditions were near perfect. No rain but cool with some wind. A bit too much wind in places as some parts were exposed but OK. 
+- Race was very well organised with refreshments along the way we could scoop up. Kudos to the team and all the terrific sponsors (incl bizarrely Manx Telecom)
+- We all finished with no walking at all. 
+- Andy clocked 2.14, me 2.16 and Rob 2.17. 
+- It was a fast crowd racing though - these results put us in the bottom 8% of runners! 
+- But yes that does mean we beat some people!
+- I was in a rough way at the end. Very weak. Had to lie down for a long while. 
+- Today me and Rob were hobbling around. Me muscle aches. Rob foot pain. Andy sometimes stiff but getting on generally much better.
+- I will probably take my medal off before the end of the year.
+
+&lt;br /&gt;
+
+###  Never Again
+When we were hobbling home after the race we all agreed that under no circumstances would we ever run another half marathon...
+
+Written by Race Responsible: **Sam Davyson**.
+
+
+&lt;/tr&gt;&lt;/table&gt;</content><author><name></name></author><category term="photos" /><summary type="html"></summary></entry></feed>

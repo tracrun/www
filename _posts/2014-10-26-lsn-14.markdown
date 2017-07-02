@@ -1,0 +1,129 @@
+---
+layout: post
+title: Lausanne Half Marathon 2014
+date: '2014-10-26 20:33:00'
+tags:
+- photos
+---
+
+![main-image](/assets/images/lsn14-header.jpg)
+
+Third race and our return to Switzerland. Lausanne Half Marathon 2014 was the first time we ever repeated a course. It is our flagship autumn event.
+
+--------
+### Race Photos
+
+![Alex at Lausanne Half Marathon 2014](/assets/images/lsn14/4575073_p.jpg)
+![Alex at Lausanne Half Marathon 2014](/assets/images/lsn14/4575586_p.jpg)
+![Andrew at Lausanne Half Marathon 2014](/assets/images/lsn14/4584654_p.jpg)
+![Andrew at Lausanne Half Marathon 2014](/assets/images/lsn14/4600259_p.jpg)
+![Michael at Lausanne Half Marathon 2014](/assets/images/lsn14/4585553_p.jpg)
+![Michael at Lausanne Half Marathon 2014](/assets/images/lsn14/4601425_p.jpg)
+![Sam at Lausanne Half Marathon 2014](/assets/images/lsn14/4576129_p.jpg)
+![Sam at Lausanne Half Marathon 2014](/assets/images/lsn14/4586539_p.jpg)
+![Sam at Lausanne Half Marathon 2014](/assets/images/lsn14/4593088_p.jpg)
+![Sam at Lausanne Half Marathon 2014](/assets/images/lsn14/4600912_p.jpg)
+
+<style>
+#columns {
+column-width: 320px;
+column-gap: 15px;
+width: 90%;
+max-width: 1100px;
+margin: 50px auto;
+}
+div#columns figure {
+background: #fefefe;
+border: 2px solid #fcfcfc;
+box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+margin: 0 2px 15px;
+padding: 15px; padding-bottom: 10px;
+transition: opacity .4s ease-in-out;
+column-break-inside: avoid;
+display: inline-block;
+}
+div#columns figure img {
+width: 100%; height: auto;
+border-bottom: 1px solid #ccc;
+padding-bottom: 15px;
+margin-bottom: 5px;
+}
+</style>
+
+
+### Finisher Clips
+
+### #Michael
+<iframe src="https://player.vimeo.com/video/120746536" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### #Andrew
+<div class='embed-container'><iframe src="https://player.vimeo.com/video/120745366"  width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+### #Alex
+<div class='embed-container'><iframe src="https://player.vimeo.com/video/120745358" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+### #Sam
+<div class='embed-container'><iframe src="https://player.vimeo.com/video/120745365" width="500" height="281"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+<br/>
+
+### Medal
+
+![Lausanne Half Marathon 2014 Medal](/content/images/2015/02/lsn2014medalsmall.png)
+
+<br/>
+
+### Results
+<table>
+<tr>
+<th>Who</th>
+<th class="hideMobile">Time</th>
+<th class="showMobile">Time</th>
+<th class="hideMobile">Race Day Records</th>
+<th class="hideMobile">Lasting Records</th>
+<th class="showMobile">Then Rec</th>
+<!--- <th class="showMobile">Now Rec</th> --->
+</th>
+<tr>
+<td>Michael</td>
+<td class="hideMobile">1:48:35.4</td>
+<td class="showMobile">1:48</td>
+<td class="hideMobile"><span class="clubrec">Club Record</span><br><span class="courserec">Course Record</span><br><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"><span class="clubrec">Club Record</span><br><span class="courserec">Course Record</span><br><span class="pbrec">Personal Best</span></td>
+<td class="showMobile"><span class="clubrec">Cl</span> <span class="courserec">Co</span> <span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"><span class="clubrec">Cl</span> <span class="courserec">Co</span> <span class="pbrec">PB</span></td> --->
+</tr>
+<tr>
+<td>Andrew</td>
+<td class="hideMobile">2:07:11.6</td>
+<td class="showMobile">2:07</td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="showMobile"><span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"><span class="pbrec">PB</span></td> --->
+</tr>
+<tr>
+<td>Alex</td>
+<td class="hideMobile">2:07:17.5</td>
+<td class="showMobile">2:07</td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="showMobile"><span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"><span class="pbrec">PB</span> --></td>
+</tr>
+<tr>
+<td>Sam</td>
+<td class="hideMobile">2:07:21.0</td>
+<td class="showMobile">2:07</td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="hideMobile"><span class="pbrec">Personal Best</span></td>
+<td class="showMobile"><span class="pbrec">PB</span></td>
+<!--- <td class="showMobile"><span class="pbrec">PB</span></td> --->
+</tr>
+</table>
+
+<br/>
+
+### Official Results Screenshot
+![Michael Results Lausanne Half Marathon 2014](/content/images/2015/02/Results_1.png)
+![Andrew, Alex, Sam Results Lausanne Half Marathon 2014](/content/images/2015/02/Results_2.png)
